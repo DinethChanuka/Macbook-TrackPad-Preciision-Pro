@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Python byte-code & caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.bak
+
+# Build / Distribution
+dist/
+build/
+*.egg-info/

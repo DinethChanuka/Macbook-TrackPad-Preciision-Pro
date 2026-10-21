@@ -1,0 +1,10 @@
+customtkinter>=6.0.0
+darkdetect>=0.8.0
+packaging>=24.0
+pynput>=1.8.0
+pyobjc-core>=10.0
+pyobjc-framework-Quartz>=10.0
+pyobjc-framework-Cocoa>=10.0
+pyobjc-framework-ApplicationServices>=10.0
+pillow>=10.0.0
+sv-ttk>=2.6.0
